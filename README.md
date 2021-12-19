@@ -3,12 +3,21 @@ Visualisation of github api data.
 
 
 
-Process for running application:
-
-1.
+Tools Needed:
 
 
-2.
+1. install Python
+
+2. install Pip
+
+3. pip install PyGithub
+
+4. pip install python-dotenv
 
 
-3.
+
+
+//useful notes for myself regarding implementation
+
+
+
