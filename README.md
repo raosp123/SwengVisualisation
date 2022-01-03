@@ -12,7 +12,12 @@ Tools Needed:
 
 3. pip install PyGithub
 
-4. pip install python-dotenv
+
+Running the Application:
+
+1. run ./run-server.sh in the apisrc
+
+2. go to localhost:8000 to see the directory, click on the test.html to see the test html
 
 
 
