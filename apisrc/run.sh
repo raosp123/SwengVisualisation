@@ -1,1 +1,2 @@
-Python apitest.py
+Python getDetails.py
+Python formatDetails.py

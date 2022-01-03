@@ -1,0 +1,304 @@
+{
+    "repoData": [
+        {
+            "repoName": "aatree",
+            "totalCommits": 1,
+            "personalCommits": 1
+        },
+        {
+            "repoName": "alloc-counter",
+            "totalCommits": 13,
+            "personalCommits": 1
+        },
+        {
+            "repoName": "ase-rs",
+            "totalCommits": 34,
+            "personalCommits": 12
+        },
+        {
+            "repoName": "assign05",
+            "totalCommits": 7,
+            "personalCommits": 1
+        },
+        {
+            "repoName": "async-tungstenite",
+            "totalCommits": 111,
+            "personalCommits": 1
+        },
+        {
+            "repoName": "AutoBassTab",
+            "totalCommits": 4,
+            "personalCommits": 4
+        },
+        {
+            "repoName": "autobasstab-web",
+            "totalCommits": 154,
+            "personalCommits": 12
+        },
+        {
+            "repoName": "autocompletex",
+            "totalCommits": 36,
+            "personalCommits": 35
+        },
+        {
+            "repoName": "bittrex-orderbook-importer",
+            "totalCommits": 34,
+            "personalCommits": 31
+        },
+        {
+            "repoName": "cargo-web",
+            "totalCommits": 422,
+            "personalCommits": 1
+        },
+        {
+            "repoName": "cargo-web-bug",
+            "totalCommits": 1,
+            "personalCommits": 1
+        },
+        {
+            "repoName": "circular-queue",
+            "totalCommits": 30,
+            "personalCommits": 7
+        },
+        {
+            "repoName": "cmsc330fall18-public",
+            "totalCommits": 6,
+            "personalCommits": 1
+        },
+        {
+            "repoName": "CommNet",
+            "totalCommits": 15,
+            "personalCommits": 13
+        },
+        {
+            "repoName": "crabs",
+            "totalCommits": 15,
+            "personalCommits": 14
+        },
+        {
+            "repoName": "delorean-codes",
+            "totalCommits": 3,
+            "personalCommits": 1
+        },
+        {
+            "repoName": "DIRTY",
+            "totalCommits": 909,
+            "personalCommits": 24
+        },
+        {
+            "repoName": "dotfiles",
+            "totalCommits": 1,
+            "personalCommits": 1
+        },
+        {
+            "repoName": "dyn-grammar",
+            "totalCommits": 55,
+            "personalCommits": 55
+        },
+        {
+            "repoName": "fastwfc-rs",
+            "totalCommits": 10,
+            "personalCommits": 10
+        },
+        {
+            "repoName": "gekko",
+            "totalCommits": 817,
+            "personalCommits": 1
+        },
+        {
+            "repoName": "jax",
+            "totalCommits": 4704,
+            "personalCommits": 1
+        },
+        {
+            "repoName": "macintoshplus",
+            "totalCommits": 21,
+            "personalCommits": 7
+        },
+        {
+            "repoName": "mygithubpage",
+            "totalCommits": 1,
+            "personalCommits": 1
+        },
+        {
+            "repoName": "nalu_hex2dec",
+            "totalCommits": 1,
+            "personalCommits": 1
+        },
+        {
+            "repoName": "neon-ts",
+            "totalCommits": 73,
+            "personalCommits": 20
+        },
+        {
+            "repoName": "orange-crowbar",
+            "totalCommits": 3,
+            "personalCommits": 3
+        },
+        {
+            "repoName": "ordinal-cash",
+            "totalCommits": 12,
+            "personalCommits": 12
+        },
+        {
+            "repoName": "pagemon",
+            "totalCommits": 4,
+            "personalCommits": 4
+        },
+        {
+            "repoName": "pocket-autoadd",
+            "totalCommits": 3,
+            "personalCommits": 2
+        },
+        {
+            "repoName": "potodds",
+            "totalCommits": 2,
+            "personalCommits": 2
+        },
+        {
+            "repoName": "PowerToys",
+            "totalCommits": 627,
+            "personalCommits": 2
+        },
+        {
+            "repoName": "quicksilver",
+            "totalCommits": 624,
+            "personalCommits": 6
+        },
+        {
+            "repoName": "quicksilver-bug-repro",
+            "totalCommits": 1,
+            "personalCommits": 1
+        },
+        {
+            "repoName": "rasta",
+            "totalCommits": 16,
+            "personalCommits": 16
+        },
+        {
+            "repoName": "rbtree",
+            "totalCommits": 36,
+            "personalCommits": 36
+        },
+        {
+            "repoName": "recurrent-autoencoder",
+            "totalCommits": 1,
+            "personalCommits": 1
+        },
+        {
+            "repoName": "reggae-lang",
+            "totalCommits": 3,
+            "personalCommits": 3
+        },
+        {
+            "repoName": "rust-bdf",
+            "totalCommits": 80,
+            "personalCommits": 1
+        },
+        {
+            "repoName": "RustPython",
+            "totalCommits": 1587,
+            "personalCommits": 32
+        },
+        {
+            "repoName": "rust_win_etw",
+            "totalCommits": 38,
+            "personalCommits": 1
+        },
+        {
+            "repoName": "SimGAN-Captcha",
+            "totalCommits": 7,
+            "personalCommits": 2
+        },
+        {
+            "repoName": "solenoid",
+            "totalCommits": 65,
+            "personalCommits": 65
+        },
+        {
+            "repoName": "spandex-rs",
+            "totalCommits": 7,
+            "personalCommits": 7
+        },
+        {
+            "repoName": "stdweb",
+            "totalCommits": 428,
+            "personalCommits": 12
+        },
+        {
+            "repoName": "stylit",
+            "totalCommits": 14,
+            "personalCommits": 3
+        },
+        {
+            "repoName": "table2bootstrap",
+            "totalCommits": 6,
+            "personalCommits": 4
+        },
+        {
+            "repoName": "tectonicdb",
+            "totalCommits": 529,
+            "personalCommits": 412
+        },
+        {
+            "repoName": "tectonicdb-monitor",
+            "totalCommits": 6,
+            "personalCommits": 5
+        },
+        {
+            "repoName": "tensorscript",
+            "totalCommits": 123,
+            "personalCommits": 123
+        },
+        {
+            "repoName": "tilter",
+            "totalCommits": 12,
+            "personalCommits": 1
+        },
+        {
+            "repoName": "totalitarian.info",
+            "totalCommits": 907,
+            "personalCommits": 198
+        },
+        {
+            "repoName": "tracing",
+            "totalCommits": 1054,
+            "personalCommits": 2
+        },
+        {
+            "repoName": "umddropcatcher",
+            "totalCommits": 10,
+            "personalCommits": 3
+        },
+        {
+            "repoName": "vsm",
+            "totalCommits": 3,
+            "personalCommits": 3
+        },
+        {
+            "repoName": "walkingbass",
+            "totalCommits": 18,
+            "personalCommits": 3
+        },
+        {
+            "repoName": "wfc",
+            "totalCommits": 113,
+            "personalCommits": 3
+        },
+        {
+            "repoName": "xeo",
+            "totalCommits": 10,
+            "personalCommits": 10
+        },
+        {
+            "repoName": "xprite-editor",
+            "totalCommits": 368,
+            "personalCommits": 363
+        },
+        {
+            "repoName": "zset",
+            "totalCommits": 1,
+            "personalCommits": 1
+        }
+    ]
+}
