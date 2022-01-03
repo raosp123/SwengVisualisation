@@ -24,7 +24,7 @@ Tools Needed:
 
 Please let me know if it does not work, this was all that I needed to run it
 
-1. install Python
+1. install the latest Python version
 
 2. install Pip
 
@@ -32,6 +32,8 @@ Please let me know if it does not work, this was all that I needed to run it
 
 
 Running the Application:
+
+    !WARNING! you must clear the python server cache otherwise it won't update graphData.json
 
     There are two main ways to run my program, one is the full functionality, and the other runs the visualisation immediately using pre-created files to avoid the long wait for the api polling.
     If you want to run the visualisation first, skip to the "Visualisation" section below. This will use my pre-created Json files from a microsoft employee by the username "0b01". Otherwise, you can input another github user which will rewrite the Json files in the "API-Polling" section below.
